@@ -1,0 +1,12 @@
+export { default as Homepage } from './Homepage';
+export { default as Navbar } from './Navbar';
+export { default as News } from './News';
+export { default as Cryptocurrencies } from './Cryptocurrencies';
+export { default as Exchanges } from './Exchanges';
+export { default as CryptoDetail } from './CryptoDetails';
+export { default as Nft } from './Nft';
+export { default as NftDetails } from './NftDetails';
+export { default as About } from './About';
+export { default as Privacy } from './Privacy';
+export { default as Gravity } from './Gravity';
+export { default as Contact } from './Contact';
