@@ -1,6 +1,14 @@
 ### MekaVerse
 
-MekaVerse is the website in which you get all cryptocurrency prices, details, history of coins, price charts, news with a filter option to get specific coin news and social media analysis in which you get top 10 coins by the followers, mentions and sentiments. Plus thw whole world of NFTs marketplace & more.
+MekaVerse is the one place in which you get all cryptocurrency prices, details, history of coins, price charts, news with a filter option to get specific coin news and social media analysis in which you get top 10 coins by the followers, mentions and sentiments. Plus thw whole world of NFTs marketplace & more.
+
+![MekaVerse - Google Chrome 5_15_2022 12_09_12 AM](https://user-images.githubusercontent.com/86047367/168458173-d5dcc7b7-25fd-4e90-af92-356e35afd75c.png)
+![MekaVerse - Google Chrome 5_15_2022 12_09_21 AM](https://user-images.githubusercontent.com/86047367/168458183-5376b229-6f87-489a-b83d-612fad65cbcc.png)
+![MekaVerse - Google Chrome 5_15_2022 12_10_11 AM](https://user-images.githubusercontent.com/86047367/168458251-0de8dcf7-d25d-4ba3-9e91-62b599507539.png)
+![MekaVerse - Google Chrome 5_15_2022 12_10_26 AM](https://user-images.githubusercontent.com/86047367/168458256-9ab8941a-c959-4b0f-85ea-fce7289aeaae.png)
+![MekaVerse - Google Chrome 5_15_2022 12_13_52 AM](https://user-images.githubusercontent.com/86047367/168458200-eb6b089f-251b-45e4-bdcb-c6c31bf999a6.png)
+![MekaVerse - Google Chrome 5_15_2022 12_16_18 AM](https://user-images.githubusercontent.com/86047367/168458203-389e60be-9f2b-4ec3-a71e-6595c640bdc2.png)
+
 
 # Getting Started with MekaVerse
 Create .env file in root folder with all mention api key, host and baseurl then run these cmd:
