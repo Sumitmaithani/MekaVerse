@@ -1,5 +1,5 @@
 ### MekaVerse 
-visit website : https://comfy-tiramisu-9b69b2.netlify.app
+visit website : https://mekaverse.netlify.app
 
 MekaVerse is the one place in which you get all cryptocurrency prices, details, history of coins, price charts, news with a filter option to get specific coin news and social media analysis in which you get top 10 coins by the followers, mentions and sentiments. Plus thw whole world of NFTs marketplace & more.
 
